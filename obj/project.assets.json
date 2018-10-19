@@ -12549,11 +12549,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\christiano.piccinin\\Desktop\\Curso\\CursoCsharp\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
+      "projectUniqueName": "C:\\Users\\christiano.piccinin\\Desktop\\Curso\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
       "projectName": "AspNetCoreTodo",
-      "projectPath": "C:\\Users\\christiano.piccinin\\Desktop\\Curso\\CursoCsharp\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
+      "projectPath": "C:\\Users\\christiano.piccinin\\Desktop\\Curso\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
       "packagesPath": "C:\\Users\\christiano.piccinin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\christiano.piccinin\\Desktop\\Curso\\CursoCsharp\\AspNetCoreTodo\\obj\\",
+      "outputPath": "C:\\Users\\christiano.piccinin\\Desktop\\Curso\\AspNetCoreTodo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
